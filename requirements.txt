@@ -1,0 +1,9 @@
+Django == 4.2
+django-filter == 24.2
+djangorestframework == 3.15.2
+drf-yasg == 1.21.7
+django-cors-headers==4.4.0
+django-jazzmin==3.0.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+google-api-python-client==2.142.0
